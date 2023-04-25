@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Junyoung Park"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Junyoung Park (박준영)"
+name                     : "Junyoung Park"
 description              : "An amazing website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
