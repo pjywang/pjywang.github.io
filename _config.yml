@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Junyoung Park (박준영)"
   avatar           : "/assets/images/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Ph.D. Candidate in Mathematical Sciences at KAIST."
   location         : "Daejeon, Republic of Korea"
   email            : "pjywang2@gmail.com"
   links: # should be changed further!
