@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /
-title: "About"
+title: "Junyoung's Blog"
 author_profile: true
 # hidden: true
 # head line
@@ -39,9 +39,10 @@ author_profile: true
 #     btn_class: "btn--primary"
 #     btn_label: "Learn more"      
 ---
+<h2>About</h2>
 
-I am a Ph.D. candidate in the department of Mathematical Sciences at KAIST, studying data sciences and statistics. I am currently advised by [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Before switching to data science, I studied classical and applied algebraic geometry under Prof. Sijong Kwak up to 2021.
+I am a Ph.D. candidate in the department of Mathematical Sciences at KAIST, studying data sciences and statistics. I am currently advised by [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Before switching to data science, I studied algebraic geometry under Prof. Sijong Kwak up to 2021.
 
 Since 2021, I have been primarily working on **compositional data analysis**, including variable selection, representation learning, and sufficient dimension reduction via kernel methods. 
 
-Here is my [CV](CV.pdf)
+Here is my [CV](/assets/CV.pdf)

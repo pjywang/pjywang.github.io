@@ -1,5 +1,5 @@
 {% assign document = post | default: page %}
-{% if document.read_time or document.show_date %}
+{% if document.read_time or document.show_date %} <!-- Meta-data of page.. post에서  read_time 이나 show_date True일때 활성? -->
   <p class="page__meta">
     {% if document.show_date and document.date %}
       {% assign date = document.date %}

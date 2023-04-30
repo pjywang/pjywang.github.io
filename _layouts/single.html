@@ -19,9 +19,10 @@ layout: default
 {% endif %}
 
 <div id="main" role="main">
-  {% include sidebar.html %}
+  {% include sidebar.html %} <!-- _includes/sidebar.html 삽입. single layout의 특징-->
 
   <article class="page h-entry" itemscope itemtype="https://schema.org/CreativeWork">
+    <!-- Just defines metadata about html -->
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date_to_xmlschema }}">{% endif %}
@@ -29,16 +30,17 @@ layout: default
 
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
-        <header>
+        <!-- Default 타이틀 헤드 등장 하는것 주석처리로 삭제! h1이 너무 크니까 그냥 이걸 h3 정도로 해도 괜찮을지도? -->
+        <!-- <header>
           {% if page.title %}<h1 id="page-title" class="page__title p-name" itemprop="headline">
             <a href="{{ page.url | absolute_url }}" class="u-url" itemprop="url">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</a>
           </h1>{% endif %}
           {% include page__meta.html %}
-        </header>
+        </header> -->
       {% endunless %}
 
       <section class="page__content e-content" itemprop="text">
-        {% if page.toc %}
+        {% if page.toc %} <!-- toc: True 설정 시 table of contents -->
           <aside class="sidebar__right {% if page.toc_sticky %}sticky{% endif %}">
             <nav class="toc">
               <header><h4 class="nav__title"><i class="fas fa-{{ page.toc_icon | default: 'file-alt' }}"></i> {{ page.toc_label | default: site.data.ui-text[site.locale].toc_label | default: "On this page" }}</h4></header>

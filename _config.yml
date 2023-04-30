@@ -104,7 +104,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Junyoung Park (박준영)"
+  name             : "Junyoung Park"
   avatar           : "/assets/images/Profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Ph.D. Candidate in Mathematical Sciences at KAIST."
   location         : "Daejeon, Republic of Korea"
