@@ -16,6 +16,8 @@ docs 폴더에 저장했을때 인식 안됨: _config.yml에서 경로 무시 �
 # Text size modification via _sass..
 Need more study!
 
+진짜 어떻게 해야 하지ㅜㅜ _reset은 그렇게 마음에 들진 않는데
+
 ## Automatic margin produced by headers h2~h6
 헤더 h1이 글자가 너무 커서 h2로 했더니 윗줄이 하나가 추가되는 곤란한 문제 발생했음.  
 ``_sass/base.scss`` 파일에서 h2의 margin-top을 0.2em으로 설정하였음!
