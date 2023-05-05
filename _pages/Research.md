@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /research/
 title: "Research"
 # excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
