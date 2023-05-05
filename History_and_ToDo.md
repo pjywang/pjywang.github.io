@@ -67,6 +67,8 @@ Color의 이름, width의 이름 등을 적으면 어떤 색과 width, fontsize 
 margin도 조금 조정해서 더 보기 좋게 만듦. ``.author__content``의 width도 100% 에서 80%로 줄여 더 보기 좋게 만들었다.  
 막 적는 것들 말고도 Katerina Bosko의 github 사이트 참고하여 엄청 바꿨다!! 여기 ``_sidebar.scss``는 엄청 참고함+_+
 
+#### 사진 불투명해지는 것 없애기
+``_sidebar.scss``에서 조정할 수 있다. 거의 제일 처음 부분에 ``opacity`` 라는 요소의 설정이 있는데, 이게 hover를 하지 않으면 0.75로 설정되어 있다가, hover 시에 1로 바뀌도록 되어 있다. 그냥 전부 1로 설정해버리면 끝!
 
 
 # To Do
