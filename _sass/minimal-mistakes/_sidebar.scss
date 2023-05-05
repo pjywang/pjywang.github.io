@@ -134,13 +134,15 @@
   }
 
   img {
-    max-width: 110px;
-    border-radius: 50%;
+    max-width: 170px;  // 기존 110px, 너무 작아 보여서 늘렸다.
+    border-radius: 0%; // 50% (기존 default) 로 설정 시 타원. 0% 시 rectangle
+    margin: auto;
 
-    @include breakpoint($large) {
-      padding: 5px;
-      border: 1px solid $border-color;
-    }
+    // 아래는 사진에 테두리를 만드는 정말 별로 싫은 옵션
+    // @include breakpoint($large) {
+    //   padding: 0px; // 기존 5px
+    //   border: 0px solid $border-color;  // 기존 1px.. 1px 굵기의 보더라인을 5px만큼 밖에 만드는 옵션이었다.
+    // }
   }
 }
 
@@ -153,7 +155,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
+    width: 80%;  // 100% 였음. author content의 간격을 조금 더 좁힌듯?
     padding-left: 0;
     padding-right: 0;
   }
@@ -168,21 +170,23 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
+    margin-top: 25px;  // 그림이랑 조금 띄움. 기존 10px
     margin-bottom: 10px;
   }
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-5;  // 이름 글자 너무 크다 싶으면 이거 조정 고려하기.
 }
 
 .author__bio {
   margin: 0;
+  font-size: 0.9em;  // 글자 크기 조금 줄이고 싶어서 줄임. 원래 없던 옵션 추가!
+  //font-style: italic;  // 이탤릭은 쓸지 말지 고민을 좀 해보장
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 20px; // 얘도 늘림. 기존 10
+    margin-bottom: 30px;
   }
 }
 
@@ -191,7 +195,7 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
-  z-index: 20;
+  z-index: 15;  // 수직 위치 속성. 숫자가 클수록 위로 올라감. 기존 20.. 마진을 주지 않고 위치를 정하는 요소.
   cursor: pointer;
 
   li:last-child {
@@ -249,7 +253,8 @@
   border-radius: $border-radius;
   background: $background-color;
   box-shadow: 0 2px 4px 0 rgba(#000, 0.16), 0 2px 10px 0 rgba(#000, 0.12);
-  cursor: default;
+  cursor: default;  
+  font-size: 0.9em; // 추가해봄. 성공적인데??? 원리를 이해하니 +_+
 
   &.is--visible {
     display: block;
@@ -315,7 +320,7 @@
     padding-top: 2px;
     padding-bottom: 2px;
     color: inherit;
-    font-size: $type-size-5;
+    font-size: $type-size-5; // 얘 바꾸면 링크 폰트 크기 줄어드나?
     text-decoration: none;
 
     &:hover {

@@ -89,8 +89,8 @@ body {
 
 .page__content {
   h2 {
-    padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    padding-bottom: 0em;  // Default 0.5em; border와 간격을 띄우기 위해 설정되어 있던 것으로, 추가로 조정하였다.
+    //border-bottom: 1px solid $border-color;  // h2 헤더만 밑에 borderline 까는것.. 지워버릴까?
   }
 
 	h1, h2, h3, h4, h5, h6 {
@@ -113,7 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: 0.9em;  // default: 1em. 본문 글자는 조금 더 작아질 필요가 있어서 바꾼다. p, li, dl 얘네 전부 html meaning 가짐
   }
 
   /* paragraph indents */

@@ -9,23 +9,67 @@ home.md의 첫 선언에서 title로 설정된 텍스트를 hyperlink로 header�
 이를 삭제하기 위해 _layouts/single.html 에서 해당 링크를 생성하는 header 파트를 발견, 전원 주석처리하여 문제 해결.
 
 ## CV.pdf directory
-docs 폴더에 저장했을때 인식 안됨: _config.yml에서 경로 무시 설정이 되어있었다.
+docs 폴더에 저장했을때 인식 안됨: ``_config.yml``에서 경로 무시 설정이 되어있었다.
 그냥 assets 폴더에 넣어둠
 
 
-# Text size modification via _sass..
-Need more study!
+# Various modifications via _sass..
+``_reset.scss`` 에서 텍스트 사이즈 줄이는건 완전히 폐기한다. 항목별 customizing이 불가능하다.
 
-진짜 어떻게 해야 하지ㅜㅜ _reset은 그렇게 마음에 들진 않는데
+다음의 awesome guide site https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-II/ 를 이용한다.
 
-## Automatic margin produced by headers h2~h6
+scss 기본 문법은 html 혹은 md 파일들의 스타일을 다 조정할 수 있다. 다만 html 용어를 잘 이해해야 이해가 가능하다!!
+- \<p> : Paragraph
+- \<dl> : Description list
+- \<li> : List item
+- \<h1> to \<h6> : HTML headings
+
+``_page.scss`` 에서 ``.page__contents``를 찾아서 들어간 다음, 이들 각각의 font size를 조정할 수 있다!!!  
+예를 들어 p, li, dl에 정의된 font-size는 default가 1em으로 설정되어 있었는데, 이를 0.8~0.9em으로 조정한다.
+
+### scss 파일들의 동작 원리를 이제 좀 알 것 같다!!!
+온갖 알 수 없던 용어들이 사실은 위 처럼 html 속성들에 대한 스타일 설정을 하는 원리였다. 링크에 대해서 수정을 하고 싶다면 \<a>에 해당하는 a 글자 하나만 찾아서 설정을 바꾼다.
+
+``_base.scss``에 들어가면 제일 기본 베이스로 깔고 가는 레이아웃이 나온다. 여기서 margin 등이 설정 되어 있는 것을 관찰할 수 있고, 내가 조정이 가능하겠구나 하는 깨달음도 얻는다.
+
+#### Automatic margin produced by headers h2~h6
 헤더 h1이 글자가 너무 커서 h2로 했더니 윗줄이 하나가 추가되는 곤란한 문제 발생했음.  
-``_sass/base.scss`` 파일에서 h2의 margin-top을 0.2em으로 설정하였음!
+``_base.scss`` 파일에서 h2의 margin-top을 0.2em으로 설정하였음!
+
+#### Page에서 마음에 안드는 header 아래의 boarderline 제거
+page 속성에서만 제거하길 원하였고, 따라서 ``_page.scss`` 통하여 border-bottom 관련 속성을 주석 처리.
+
+#### 링크 색상 및 옵션 변경하기
+이는 skin theme에 depending하는 옵션이므로, skin folder의 ``_contrast.scss`` 에서 설정한다 (내가 contrast theme을 사용 중, 다른 theme 사용 시 해당 이름으로 가기).
+
+``_base.scss``의 links 속성, 즉 a에 해당하는 칸에서 에서 밑줄 자체를 제거할 수는 있는데, 밑줄이 있으면서 보기 좋은 색상인게 더 나은것 같아서 해당 코드는 삽입했다가 주석처리하여 폐기하였음.
+
+##### 헤더 쪽 링크의 animation 시뻘건 색 수정
+헤더 쪽의 링크는 cursor 접근 시 밑줄 색이 너무 시뻘건 색이라 보기 좋지 않음.  
+``_masthead.scss``에서 수정 여지를 찾아본다. 이게 제일 위쪽 돛대 꼭대기를 뜻하는 단어! 마스트의 머리!  
+Katerina Bosko's blog에서 개발자 도구 활용하여 어떤 variable name 가지는지 html을 체크하여 역추적 성공하였다..!!! 장하다 주녕+_+
+
+다만 아랫줄이 animation의 종류로 나타나는 거였다ㅜㅋㅋㅋ. 최종적으로, ``_animations.scss`` 에서 수정이 되는 그림.
+- 안된다...아놔ㅜㅜ 더 찾아봐야 하는데 어케 하징 ;ㅁ;
+
+#### Width 조정하기
+``_variables.scss``의 최하단에서 이를 조정하였음.  
+사실 _variables에는 scss에서 자주 사용하는 '변수 이름'들이 저장되어 있다. 이들이 선언되어 있는 곳.  
+Color의 이름, width의 이름 등을 적으면 어떤 색과 width, fontsize 등이 사용될지를 미리 선언해둔 곳이다.  
+여기서 뭘 조정하는게 옳지는 않다.
+
+다만, 모르는 color, width, fontsize 등이 코드에 등장할땐 항상 ``_variables.scss``에서 **정의를 찾아볼 수 있다**!!!
+
+##### 차라리 sidebar 자체를 조정하는게 나을 수도 있다.
+``_sidebar.scss`` 고고  
+여기서 내 사진 동그라미를 rectangle로 바꾸었다!! ``img`` 항목을 찾은 후에, ``max-width`` 설정으로 크기를 바꾸었고, ``border-radius``를 0%로 만들어서 원형의 그림이 나오지 않도록 함. 사진 아래에 margin도 ``margin: auto;``로 추가하였다.
+
+margin도 조금 조정해서 더 보기 좋게 만듦. ``.author__content``의 width도 100% 에서 80%로 줄여 더 보기 좋게 만들었다.  
+막 적는 것들 말고도 Katerina Bosko의 github 사이트 참고하여 엄청 바꿨다!! 여기 ``_sidebar.scss``는 엄청 참고함+_+
 
 
 
 # To Do
 3. Email address를 아이콘 말고 그냥 글로 보여주도록
-2. 본문 글자크기만 따로 조정이 가능하도록 _sass 공부하기
-1. md에서 3. 2. 1 순으로 enumerate을 해도 3. 4. 5. 식으로 넘버가 붙는다.
-0. 링크를 파란색 말고 조금 더 theme에 어울리는 색을 찾아봐도 좋을 것 같다. 갈색이나 보라색?
+4. Sidebar가 cursor 없을 때 fadeout 되는게 나는 딱히 마음에 들진 않는다. 이를 수정하려면??
+5. masthead의 아이콘들 밑줄 색깔 바꿔야 한다.
