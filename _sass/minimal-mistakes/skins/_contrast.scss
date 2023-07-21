@@ -5,7 +5,7 @@
 /* Colors */
 $text-color: #000 !default;
 $muted-text-color: $text-color !default;
-$primary-color: #ff0000 !default;
+$primary-color: #767676 !default; //원래 #ff0000 그냥 새빨간 색이 default. 이걸 바꾸는게 최선은 아닐텐데 애니메이션 못찾겠다..
 $border-color: mix(#fff, $text-color, 75%) !default;
 $footer-background-color: #000 !default;
 $link-color: #007bb6 !default;  // 기본: #0000ff 굉장히 파랑파랑. 바꾼건 링크드인 color와 비슷.

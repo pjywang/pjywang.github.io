@@ -53,13 +53,14 @@ page 속성에서만 제거하길 원하였고, 따라서 ``_page.scss`` 통하�
 
 * 사이트 좌 상단의 블로그 bold title은 _config.yml 에서 masthead_title을 수정!
 
-##### 헤더 쪽 링크의 animation 시뻘건 색 수정
-헤더 쪽의 링크는 cursor 접근 시 밑줄 색이 너무 시뻘건 색이라 보기 좋지 않음.  
+##### 헤더 쪽 링크의 animation 시뻘건 밑줄 색 수정
+헤더 쪽의 링크는 cursor 접근 시 밑줄 색이 너무 시뻘건 색(``contrast`` theme에 기본으로 설정된 ``primary_color``)이라 보기 좋지 않음.  
 ``_masthead.scss``에서 수정 여지를 찾아본다. 이게 제일 위쪽 돛대 꼭대기를 뜻하는 단어! 마스트의 머리!  
-Katerina Bosko's blog에서 개발자 도구 활용하여 어떤 variable name 가지는지 html을 체크하여 역추적 성공하였다..!!! 장하다 주녕+_+
+개발자 도구 상으로는 ``_masthead``가 맞는 것 같은데, primary color를 쓴다고 사용하는 animation을 찾지 못했다.
+``_animation.scss`` 에서도 찾지 못함..
 
-다만 아랫줄이 animation의 종류로 나타나는 거였다ㅜㅋㅋㅋ. 최종적으로, ``_animations.scss`` 에서 수정이 되는 그림.
-- 안된다...아놔ㅜㅜ 더 찾아봐야 하는데 어케 하징 ;ㅁ;
+차선책으로 그냥 contrast theme의 default color 에서 primary를 회색으로 바꿔버렸다 그냥
+
 
 #### Width 조정하기
 ``_variables.scss``의 최하단에서 이를 조정하였음.  
@@ -81,4 +82,4 @@ margin도 조금 조정해서 더 보기 좋게 만듦. ``.author__content``의 
 
 
 # To Do
-* masthead의 아이콘들 밑줄 색깔 바꿔야 한다.
+* masthead의 아이콘들 밑줄 색깔 바꿔야 한다 (굉장히 차선책으로 일단 해결.. masthead가 아닐 수도 있으며, 어떻게든 위쪽 navigation 링크들의 색상 bold 등을 바꿔보고 싶다. attribute을 찾아야 함!)
