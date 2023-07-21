@@ -1,3 +1,5 @@
+다음 블로그 포스팅으로 MM theme의 구조를 어느 정도 파악 가능하다: https://ansohxxn.github.io/blog/jekyll-directory-structure/
+
 ## Changed default home page
 충돌 방지를 위해 index.html을 삭제 -> home.md가 메인 페이지로 설정됨. 메인 페이지로 설정되는 원리는 permalink: / 로 표현되어 있기 때문. permalink: /about 인 경우, 블로그주소/about을 했을때 해당 md (or html) 파일을 로드하게 된다.
 
