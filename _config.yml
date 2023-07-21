@@ -109,7 +109,7 @@ author:
   bio              : "Ph.D. Candidate in Mathematical Sciences at KAIST."
   location         : "Daejeon, Republic of Korea"
   email            : 
-  links: # should be changed further! // url에 주소를 넣어야 추가적으로 텍스트가 렌더링된다.
+  links: # url에 주소를 넣어야 추가적으로 텍스트가 렌더링된다.
     - label: "pjywang2@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pjywang2@gmail.com"
