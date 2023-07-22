@@ -3,7 +3,7 @@
 ## Changed default home page
 충돌 방지를 위해 index.html을 삭제 -> home.md가 메인 페이지로 설정됨. 메인 페이지로 설정되는 원리는 permalink: / 로 표현되어 있기 때문. permalink: /about 인 경우, 블로그주소/about을 했을때 해당 md (or html) 파일을 로드하게 된다.
 
-기존 home layout이 posts의 list를 기본으로 출력하도록 되어있어서 곤란했다. 다행히, [minimal-mistakes document](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)에서 ``single`` layout이 제일 기본적인 two-column form이라고 설명해주어 그것으로 바꿈.
+기존 ``home`` layout이 posts의 list를 기본으로 출력하도록 되어있어서 곤란. 다행히, [minimal-mistakes document](https://mmistakes.github.io/minimal-mistakes/docs/layouts/)에서 ``single`` layout이 제일 기본적인 two-column form이라고 설명해주어 그것으로 바꿈.
 
 ### Deleted header link in single layout
 home.md의 첫 선언에서 title로 설정된 텍스트를 hyperlink로 header에 생성하는게 디폴트인 상태였고, 보기에 안이뻐서 곤란했다. 
@@ -53,7 +53,7 @@ page 속성에서만 제거하길 원하였고, 따라서 ``_page.scss`` 통하�
 
 * 사이트 좌 상단의 블로그 bold title은 _config.yml 에서 masthead_title을 수정!
 
-##### 헤더 쪽 링크의 animation 시뻘건 밑줄 색 수정
+##### 헤더 쪽 링크의 animation 시뻘건 밑줄 색 수정 (절반 완료)
 헤더 쪽의 링크는 cursor 접근 시 밑줄 색이 너무 시뻘건 색(``contrast`` theme에 기본으로 설정된 ``primary_color``)이라 보기 좋지 않음.  
 ``_masthead.scss``에서 수정 여지를 찾아본다. 이게 제일 위쪽 돛대 꼭대기를 뜻하는 단어! 마스트의 머리!  
 개발자 도구 상으로는 ``_masthead``가 맞는 것 같은데, primary color를 쓴다고 사용하는 animation을 찾지 못했다.
@@ -83,3 +83,5 @@ margin도 조금 조정해서 더 보기 좋게 만듦. ``.author__content``의 
 
 # To Do
 * masthead의 아이콘들 밑줄 색깔 바꿔야 한다 (굉장히 차선책으로 일단 해결.. masthead가 아닐 수도 있으며, 어떻게든 위쪽 navigation 링크들의 색상 bold 등을 바꿔보고 싶다. attribute을 찾아야 함!)
+* 제일 아래쪽에 까만 줄을 없앨지 말지 고민을 좀 해보자.
+* 블로그 포스팅 각을 재야 한다.
