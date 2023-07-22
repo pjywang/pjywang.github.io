@@ -43,6 +43,6 @@ author_profile: true
 
 I am a Ph.D. candidate in the department of Mathematical Sciences at KAIST. I am  studying *statistical learning* and *data sciences*, advised by Prof. [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Before switching to the current field, I studied algebraic geometry under Prof. Sijong Kwak up to 2021.
 
-Since 2021, I have been primarily working on **compositional data analysis**, including variable selection, representation learning, and dimension reduction via kernel methods. I am also broadly interested in analyzing various unstructured data, especially non-Euclidean data.
+Since 2021, I have been primarily working on **compositional data analysis**, including variable selection, representation learning, and dimension reduction via kernel methods. I am also interested in analyzing data with other special geometric structures.
 
 Here is my [CV](/assets/CV.pdf)
