@@ -1,3 +1,5 @@
+23.09.05 history: main page modified & linkedin link deleted
+
 다음 블로그 포스팅으로 MM theme의 구조를 어느 정도 파악 가능하다: https://ansohxxn.github.io/blog/jekyll-directory-structure/
 
 ## Changed default home page

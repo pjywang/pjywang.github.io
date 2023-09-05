@@ -115,7 +115,7 @@ author:
       url: "mailto:pjywang2@gmail.com"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/junyoung-park-0561b5209/"
+      # url: "https://www.linkedin.com/in/junyoung-park-0561b5209/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
