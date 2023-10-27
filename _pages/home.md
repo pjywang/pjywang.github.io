@@ -43,7 +43,7 @@ author_profile: true
 
 I am a Ph.D. candidate in the Department of Mathematical Sciences at KAIST, where I am studying statistical learning and data science under the supervision of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Before pursuing the current research field, I studied algebraic geometry under the direction of Prof. Sijong Kwak until summer 2021.
 
-Since 2021, I have been primarily working on **compositional data analysis**, including variable selection, dimensionality reduction, and predictive model development. I am also interested in the recent theory of kernel methods, including conditional mean embedding, covariance operator, and sufficient dimension reduction.
+Since 2021, I have primarily worked on **compositional data analysis**, including variable selection, dimensionality reduction, and predictive model development. I am also interested in the recent theory of kernel methods, including conditional mean embedding, covariance operator, and sufficient dimension reduction.
 
 I enjoy coffee :coffee:, wine :wine_glass:, running, and singing :).
 
