@@ -82,6 +82,8 @@ margin도 조금 조정해서 더 보기 좋게 만듦. ``.author__content``의 
 #### 사진 불투명해지는 것 없애기
 ``_sidebar.scss``에서 조정할 수 있다. 거의 제일 처음 부분에 ``opacity`` 라는 요소의 설정이 있는데, 이게 hover를 하지 않으면 0.75로 설정되어 있다가, hover 시에 1로 바뀌도록 되어 있다 (즉 커서 없을때 fadeout 되는 맘에 안드는 부분!). 그냥 전부 1로 설정해버려 fadeout option을 삭제했다.
 
+# Emoji 사용
+[Link](https://www.fabriziomusacchio.com/blog/2021-08-16-emojis_for_Jekyll/#smileys--emotion) 참조하여 `Gemfile`, `_config.yml` 두 개 살짝 changed!
 
 # To Do
 * masthead의 아이콘들 밑줄 색깔 바꿔야 한다 (굉장히 차선책으로 일단 해결.. masthead가 아닐 수도 있으며, 어떻게든 위쪽 navigation 링크들의 색상 bold 등을 바꿔보고 싶다. attribute을 찾아야 함!)
