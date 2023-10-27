@@ -89,3 +89,9 @@ margin도 조금 조정해서 더 보기 좋게 만듦. ``.author__content``의 
 * 블로그 포스팅 각을 재야 한다.
     - 이거 posts에 md file들이 충분히 많지 않으면 뭔가 jekyll build가 안되는데 이유를 모르겠다.
     - Sample posts를 그냥 아무데나 모아놓고, 내가 원하는 포스트들로 채우고 싶은데, 일단은 좀 곤란하다 ;ㅁ;
+
+
+# Contents
+* Home 화면은 CV와 congruent하게 맞춘다.
+* Github repository가 있는 works는 publication 옆에 link를 같이 달아준다.
+* 
