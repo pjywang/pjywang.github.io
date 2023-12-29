@@ -41,10 +41,10 @@ author_profile: true
 ---
 <h2>About me</h2>
 
-I am a Ph.D. candidate in the Department of Mathematical Sciences at KAIST, where I am studying statistical learning and data science under the supervision of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). I am about to receive my Ph.D. in Feb. 2024. Before pursuing the current research field, I studied algebraic geometry under the direction of Prof. Sijong Kwak until summer 2021.
+I am a Ph.D. candidate in the Department of Mathematical Sciences at KAIST, where I am studying statistical learning and data science under the supervision of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). I will receive my Ph.D. in Feb. 2024. Before pursuing the current research field, I studied algebraic geometry under the direction of Prof. Sijong Kwak until summer 2021.
 
-Since 2021, I have primarily worked on **compositional data analysis**, including variable selection, dimensionality reduction, and predictive model development. I am also interested in the recent theory of kernel methods, including conditional mean embedding, covariance operator, and sufficient dimension reduction.
+Since 2021, I have primarily worked on **compositional data analysis**, including variable selection, dimensionality reduction, and predictive model development. I am also interested in the recent theory of kernel conditional mean embedding, sufficient dimension reduction, and high-dimensional statistics.
 
-I enjoy coffee :coffee:, wine :wine_glass:, running, and singing :).
+I enjoy coffee :coffee:, :wine_glass:, running, and singing :).
 
 Here is my [CV](/assets/CV.pdf)
