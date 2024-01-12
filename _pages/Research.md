@@ -25,4 +25,4 @@ author_profile: true
 - **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), Kernel Methods for Radial Transformed Compositional Data with Many Zeros, Proceedings of the 39th *International Conference on Machine Learning* (**ICML**), [Link.](https://proceedings.mlr.press/v162/park22d.html)
 
 #### In Progress
-- Interpretable Composition-To-Composition Dimension Reduction via Conditional Covariance Operator (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D. [thesis](/assets/thesis.pdf) (Chapter 3, 5).
+- Dimension Reduction for Compositional Data with Interpretable Compositional Outcomes (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D. [thesis](/assets/thesis.pdf) (Chapter 3, 5).
