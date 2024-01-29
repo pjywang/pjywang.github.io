@@ -20,9 +20,9 @@ author_profile: true
 
 ## Publications
 
-- **Park, J.**, Ahn, J., and Park, C. (2023), Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data, Proceedings of the 40th *International Conference on Machine Learning* (**ICML**). [Link.](https://proceedings.mlr.press/v202/park23a.html) [Github.](https://github.com/pjywang/KVS-CoDa)
+- **Park, J.**, Ahn, J., and Park, C. (2023), Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data, Proceedings of the 40th *International Conference on Machine Learning* (ICML). [Link.](https://proceedings.mlr.press/v202/park23a.html) [Github.](https://github.com/pjywang/KVS-CoDa)
 - Kang, I.,  Choi, H., Yoon, Y.-J., **Park, J.**, Kwon, S.-S., and Park, C. (2023), Frechet Distance-Based Cluster Analysis for Multi-Dimensional Functional Data, *Statistics and Computing*, 33(4), 75.
-- **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), Kernel Methods for Radial Transformed Compositional Data with Many Zeros, Proceedings of the 39th *International Conference on Machine Learning* (**ICML**), [Link.](https://proceedings.mlr.press/v162/park22d.html)
+- **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), Kernel Methods for Radial Transformed Compositional Data with Many Zeros, Proceedings of the 39th *International Conference on Machine Learning* (ICML), [Link.](https://proceedings.mlr.press/v162/park22d.html)
 
 #### In Progress
 - Interpretable Dimension Reduction for Compositional Data (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D. [thesis](/assets/thesis.pdf) (Chapter 3, 5).
