@@ -41,9 +41,11 @@ author_profile: true
 ---
 <h2>About me</h2>
 
-Hi! I am a postdoctoral research fellow in the Department of Mathematical Sciences at KAIST, supported by the BK21 project in Korea. Starting in September 2024, I will join the University of Michigan as a Postdoctoral Research Fellow in the Department of Biostatistics, under the mentorship of Professor Irina Gaynanova. I earned my Ph.D. in Mathematical Sciences, specializing in compositional data analysis and statistical learning, under the guidance of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Additionally, I conducted research in algebraic geometry under the supervision of Professor Sijong Kwak until the summer of 2021.
+Hi! I am a postdoctoral research fellow in the Department of Mathematical Sciences at KAIST, supported by the BK21 project in Korea. Starting in September 2024, I will join the University of Michigan as a Postdoctoral Research Fellow in the Department of Biostatistics, under the mentorship of Professor Irina Gaynanova. 
 
 I have primarily worked on *compositional data analysis*, including variable selection, interpretable dimension reduction, and predictive model development. I am also interested in developing methods for nonnegative data, functional data, and tensor data analysis. On the theoretical side, I am interested in kernel conditional mean embedding, sufficient dimension reduction, and high-dimensional statistics.
+
+I earned my Ph.D. in Mathematical Sciences, specializing in compositional data analysis and statistical learning, under the guidance of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Additionally, I conducted research in algebraic geometry under the supervision of Professor Sijong Kwak until the summer of 2021.
 
 I enjoy coffee :coffee:, :wine_glass:, running, and singing :).
 
