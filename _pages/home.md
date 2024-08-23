@@ -41,12 +41,14 @@ author_profile: true
 ---
 <h2>About me</h2>
 
-Hi! I am a postdoctoral research fellow in the Department of Mathematical Sciences at KAIST, supported by the BK21 project in Korea. Starting in September 2024, I will join the University of Michigan as a Postdoctoral Research Fellow in the Department of Biostatistics, under the mentorship of Professor Irina Gaynanova. 
+Hi! I am a postdoctoral research fellow in the Biostatistics Department of the University of Michigan, under the supervision of Dr. [Irina Gaynanova](https://irinagain.github.io/).
 
-I have primarily worked on *compositional data analysis*, including variable selection, interpretable dimension reduction, and predictive model development. I am also interested in developing methods for nonnegative data, functional data, and tensor data analysis. On the theoretical side, I am interested in kernel conditional mean embedding, sufficient dimension reduction, and high-dimensional statistics.
+I'm generally interested in analyzing complex data arising in practice. In my Ph.D. work, I have primarily worked on *compositional data analysis*, including variable selection, interpretable dimension reduction, and predictive model development. I've also started working on continuous glucose monitoring (CGM) data with Dr. Gaynanova. 
 
-I earned my Ph.D. in Mathematical Sciences, specializing in compositional data analysis and statistical learning, under the guidance of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Additionally, I conducted research in algebraic geometry under the supervision of Professor Sijong Kwak until the summer of 2021.
+ <!-- interested in developing methods for nonnegative data, functional data, and tensor data analysis. On the theoretical side, I am interested in kernel conditional mean embedding, sufficient dimension reduction, and high-dimensional statistics. -->
+
+I earned my Ph.D. in Mathematical Sciences, specializing in compositional data analysis and statistical learning, under the guidance of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor). Before that, I worked in the field of algebraic geometry under the supervision of Professor Sijong Kwak until the summer of 2021.
 
 I enjoy coffee :coffee:, :wine_glass:, running, and singing :).
 
-Here is my [CV](/assets/CV.pdf) (last updated: May 2024)
+Here is my [CV](/assets/CV.pdf) (last updated: Aug 2024)

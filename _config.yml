@@ -20,7 +20,7 @@ title                    : "Junyoung Park"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Junyoung Park"
-description              : "About me and my research"
+description              : 
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,13 +106,13 @@ analytics:
 author:
   name             : "Junyoung Park"
   avatar           : "/assets/images/Profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate in Mathematical Sciences at KAIST."
-  location         : "Daejeon, Republic of Korea"
+  bio              : "Postdoc in Biostatistics at U-Michigan"
+  location         : "Ann Arbor, MI"
   email            : 
   links: # url에 주소를 넣어야 추가적으로 텍스트가 렌더링된다.
-    - label: "pjywang2@gmail.com"
+    - label: "junyoup@umich.edu"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:pjywang2@gmail.com"
+      url: "mailto:junyoup@umich.edu"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       # url: "https://www.linkedin.com/in/junyoung-park-0561b5209/"
