@@ -26,3 +26,4 @@ author_profile: true
 
 #### In Progress
 - Interpretable Dimension Reduction for Compositional Data (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D. [thesis](/assets/thesis.pdf) (Chapter 3, 5).
+- Data-driven thresholds for wearable device data summareis (with Irina Gaynanova)

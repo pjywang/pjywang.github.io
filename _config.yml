@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Junyoung Park"
   avatar           : "/assets/images/Profile2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Postdoc in Biostatistics at U-Michigan"
+  bio              : "Postdoc in Biostatistics at University of Michigan"
   location         : "Ann Arbor, MI"
   email            : 
   links: # url에 주소를 넣어야 추가적으로 텍스트가 렌더링된다.
