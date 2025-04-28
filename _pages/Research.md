@@ -20,10 +20,16 @@ author_profile: true
 
 ## Publications
 
-- **Park, J.**, Ahn, J., and Park, C. (2023), Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data, Proceedings of the 40th *International Conference on Machine Learning* (ICML). [Link.](https://proceedings.mlr.press/v202/park23a.html) [Github.](https://github.com/pjywang/KVS-CoDa)
-- Kang, I.,  Choi, H., Yoon, Y.-J., **Park, J.**, Kwon, S.-S., and Park, C. (2023), Frechet Distance-Based Cluster Analysis for Multi-Dimensional Functional Data, *Statistics and Computing*, 33(4), 75.
-- **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), Kernel Methods for Radial Transformed Compositional Data with Many Zeros, Proceedings of the 39th *International Conference on Machine Learning* (ICML), [Link.](https://proceedings.mlr.press/v162/park22d.html)
+*Preprints:*
+- **Park, J.**, Kok, N., and Gaynanova, I. (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777). arXiv:2501.11777.
+
+
+
+*Peer-reviewed articles:*
+- **Park, J.**, Ahn, J., and Park, C. (2023) [Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data](https://proceedings.mlr.press/v202/park23a.html), Proceedings of the 40th *International Conference on Machine Learning* (ICML). [Github.](https://github.com/pjywang/KVS-CoDa)
+- Kang, I.,  Choi, H., Yoon, Y.-J., **Park, J.**, Kwon, S.-S., and Park, C. (2023), [Frechet Distance-Based Cluster Analysis for Multi-Dimensional Functional Data](https://doi.org/10.1007/s11222-023-10237-z), *Statistics and Computing*, 33(4), 75.
+- **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), [Kernel Methods for Radial Transformed Compositional Data with Many Zeros](https://proceedings.mlr.press/v162/park22d.html), Proceedings of the 39th *International Conference on Machine Learning* (ICML).
 
 #### In Progress
-- Interpretable Dimension Reduction for Compositional Data (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D. [thesis](/assets/thesis.pdf) (Chapter 3, 5).
-- Data-driven thresholds for wearable device data summareis (with Irina Gaynanova)
+- Interpretable Dimension Reduction for Compositional Data (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D thesis.
+- Frechet regression for multivariate distributions (with Irina Gaynanova)
