@@ -21,6 +21,7 @@ author_profile: true
 ## Publications
 
 *Preprints:*
+- **Park, J.**, Park, C., Ahn, J. (2025+) [Interpretable Dimension Reduction for Compositional Data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563.
 - **Park, J.**, Kok, N., and Gaynanova, I. (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777). arXiv:2501.11777.
 
 
@@ -31,5 +32,5 @@ author_profile: true
 - **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), [Kernel Methods for Radial Transformed Compositional Data with Many Zeros](https://proceedings.mlr.press/v162/park22d.html), Proceedings of the 39th *International Conference on Machine Learning* (ICML).
 
 #### In Progress
-- Interpretable Dimension Reduction for Compositional Data (with Jeongyoun Ahn and Cheolwoo Park), partially appeared in my Ph.D thesis.
-- Frechet regression for multivariate distributions (with Irina Gaynanova)
+- Frechet regression Regression of multivariate distributions (with Irina Gaynanova)
+- Fast clustering of multivariate distributions (with Edward Shao, Irina Gaynanova)
