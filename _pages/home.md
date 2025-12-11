@@ -43,7 +43,7 @@ author_profile: true
 
 Hi! I am a postdoctoral research fellow in the Biostatistics Department of the University of Michigan, under the supervision of Dr. [Irina Gaynanova](https://irinagain.github.io/).
 
-I'm generally interested in analyzing complex data encountered in practice. My recent research focuses on distributional data approaches for wearable device data, specifically continuous glucose monitoring (CGM) measurements. I also work on compositional data analysis where I have worked on interpretable dimension reduction methods for microbiome data during my Ph.D. studies.
+I'm generally interested in developing methods for geometrically structured data encountered in practice. My recent research focuses on distributional data approaches for wearable device data, specifically continuous glucose monitoring (CGM) measurements. I also work on compositional data analysis where I have worked on interpretable dimension reduction methods for microbiome data during my Ph.D. studies.
 
  <!--In my Ph.D. work, I have primarily worked on *compositional data analysis*, including variable selection, interpretable dimension reduction, and predictive model development. I've also started working on continuous glucose monitoring (CGM) data with Dr. Gaynanova. -->
 
