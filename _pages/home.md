@@ -53,4 +53,4 @@ I earned my Ph.D. in Mathematical Sciences under the guidance of Professors [Che
 
 I enjoy coffee :coffee:, :wine_glass:, running, and singing :).
 
-Here is my [CV](/assets/CV.pdf) (last updated: Sep 2025)
+Here is my [CV](/assets/CV.pdf) (last updated: Oct 2025)
