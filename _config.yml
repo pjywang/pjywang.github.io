@@ -158,7 +158,13 @@ footer:
 # Reading Files
 include:
   - .htaccess
-  - _pages
+  # - _pages # makes every url in pages; will be manually added later to avoid potential copyright issue
+  - _pages/404.md
+  - _pages/Research.md
+  - _pages/posts.md
+  - _pages/category-archive.md
+  - _pages/tag-archive.md
+  - _pages/year-archive.md
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
