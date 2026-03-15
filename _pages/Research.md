@@ -20,18 +20,19 @@ author_profile: true
 
 ## Publications
 
-*Preprints/Submitted:*
-- **Park, J.**, Park, C., Ahn, J. (2025+) [A geometry-preserving framework for sufficient dimension reduction of
-compositional data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563. [Python codes.](https://github.com/pjywang/CKDR)
-- **Park, J.**, Kok, N., and Gaynanova, I. (2025+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777). arXiv:2501.11777.
+**Preprints/Submitted:**
+- **Park, J.** and Gaynanova, I. (2026+) [Fr\'echet regression of multivariate distributions with nonparanormal transport](https://arxiv.org/abs/2603.07014). arXiv:2603.07014.
+- Shao, E., **Park, J.**, Punjabi, N., Jiang, H, and Gaynanova, I. (2026+) [Fast distance computation between multivariate distributions via nonparanormal Transport](https://arxiv.org/abs/2603.00322). arXiv:2603.00322.
+- **Park, J.**, Park, C., Ahn, J. (2026+) [A geometry-preserving framework for sufficient dimension reduction of compositional data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563. [Python codes.](https://github.com/pjywang/CKDR)
+- **Park, J.**, Kok, N., and Gaynanova, I. (2026+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777). arXiv:2501.11777.
 
 
 
-*Peer-reviewed articles:*
+**Peer-reviewed articles:**
+- Yeon, K., Gao, F., Kim, R., Lee, D., **Park, J.**, Brown, D.A., and Park, C. (2026+) ``A Bayesian Approach to Semi-Supervised Domain Adaptation in Streaming Data.'' *Journal of Statistical Computation and Simulation*, Accepted.
 - **Park, J.**, Ahn, J., and Park, C. (2023) [Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data](https://proceedings.mlr.press/v202/park23a.html), Proceedings of the 40th *International Conference on Machine Learning* (ICML). [Github.](https://github.com/pjywang/KVS-CoDa)
 - Kang, I.,  Choi, H., Yoon, Y.-J., **Park, J.**, Kwon, S.-S., and Park, C. (2023), [Frechet Distance-Based Cluster Analysis for Multi-Dimensional Functional Data](https://doi.org/10.1007/s11222-023-10237-z), *Statistics and Computing*, 33(4), 75.
 - **Park, J.**, Yoon, C., Park, C., and Ahn, J. (2022), [Kernel Methods for Radial Transformed Compositional Data with Many Zeros](https://proceedings.mlr.press/v162/park22d.html), Proceedings of the 39th *International Conference on Machine Learning* (ICML).
 
-#### In Progress (coming soon!)
-- Frechet regression of multivariate distributions under the semiparametric nonparanormal model (with Irina Gaynanova)
-- Fast distance computation of multivariate distributions (with Edward Shao, Irina Gaynanova)
+<!-- #### In Progress 
+- Frechet regression of multivariate distributions under the semiparametric nonparanormal model (with Irina Gaynanova) -->

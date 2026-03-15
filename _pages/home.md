@@ -53,4 +53,10 @@ I earned my Ph.D. in Mathematical Sciences under the guidance of Professors [Che
 
 I enjoy coffee :coffee:, :wine_glass:, running, and singing :).
 
-Here is my [CV](/assets/CV.pdf) (last updated: Oct 2025)
+Here is my [CV](/assets/CV.pdf) (last updated: Mar 2026)
+
+
+**Awards**
+- IMS New Researchers Travel Award (2026)
+- IMSI Long Program visit, Connectomics (2026)
+- Best Ph.D. Dissertation Award, Korean Statistical Society (2025)
