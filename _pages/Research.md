@@ -21,7 +21,7 @@ author_profile: true
 ## Publications
 
 **Preprints/Submitted:**
-- **Park, J.** and Gaynanova, I. (2026+) [Fr\'echet regression of multivariate distributions with nonparanormal transport](https://arxiv.org/abs/2603.07014). arXiv:2603.07014.
+- **Park, J.** and Gaynanova, I. (2026+) [Fr\'echet regression of multivariate distributions with nonparanormal transport](https://arxiv.org/abs/2603.07014). arXiv:2603.07014. (**IMS New Researchers Travel Award**)
 - Shao, E., **Park, J.**, Punjabi, N., Jiang, H, and Gaynanova, I. (2026+) [Fast distance computation between multivariate distributions via nonparanormal Transport](https://arxiv.org/abs/2603.00322). arXiv:2603.00322.
 - **Park, J.**, Park, C., Ahn, J. (2026+) [A geometry-preserving framework for sufficient dimension reduction of compositional data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563. [Python codes.](https://github.com/pjywang/CKDR)
 - **Park, J.**, Kok, N., and Gaynanova, I. (2026+) [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://arxiv.org/abs/2501.11777). arXiv:2501.11777.
