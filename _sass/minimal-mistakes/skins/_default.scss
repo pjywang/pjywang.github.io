@@ -2,4 +2,14 @@
    Default skin
    ========================================================================== */
 
-// Intentionally left blank
+/* Colors */
+$text-color: #494e52 !default;
+$muted-text-color: #9ba1a6 !default;
+$primary-color: #7a8288 !default;
+$border-color: #f2f3f3 !default;
+$footer-background-color: #f2f3f3 !default;
+$link-color: #52adc8 !default;
+$link-color-hover: mix(#000, $link-color, 25%) !default;
+$link-color-visited: mix(#fff, $link-color, 15%) !default;
+$masthead-link-color: $text-color !default;
+$masthead-link-color-hover: mix(#000, $text-color, 20%) !default;

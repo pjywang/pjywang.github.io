@@ -113,7 +113,7 @@ body {
   p,
   li,
   dl {
-    font-size: 0.9em;  // default: 1em. 본문 글자는 조금 더 작아질 필요가 있어서 바꾼다. p, li, dl 얘네 전부 html meaning 가짐
+    font-size: 1em;  // Keep body text at the root scale.
   }
 
   /* paragraph indents */
