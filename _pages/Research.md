@@ -30,8 +30,8 @@ author_profile: true
 
 
 ### Peer-reviewed articles:
-- **Park, J.**, Kok, N., and Gaynanova, I. (2026+) 
-Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions. *Statistics in Medicine*, *Accepted*. [[Preprint](https://arxiv.org/abs/2501.11777)] [R package [OptiThresholdR](https://github.com/IrinaStatsLab/OptiThresholds/blob/main/optithresholdr/README.md)]
+- **Park, J.**, Kok, N., and Gaynanova, I. (2026) 
+[Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://doi.org/10.1002/sim.70646). *Statistics in Medicine*, Vol. 45, No. 15-17, e70646. [R package [OptiThresholdR](https://github.com/IrinaStatsLab/OptiThresholds/blob/main/optithresholdr/README.md)]
 - Yeon, K., Gao, F., Kim, R., Lee, D., **Park, J.**, Brown, D.A., and Park, C. (2026) [A Bayesian Approach to Semi-Supervised Domain Adaptation in Streaming Data](https://doi.org/10.1080/00949655.2026.2619050). *Journal of Statistical Computation and Simulation*, 96(9), 2237–2262.
 - **Park, J.**, Ahn, J., and Park, C. (2023) [Kernel Sufficient Dimension Reduction and Variable Selection for Compositional Data](https://proceedings.mlr.press/v202/park23a.html), Proceedings of the 40th *International Conference on Machine Learning* (ICML). [Github.](https://github.com/pjywang/KVS-CoDa)
 - Kang, I.,  Choi, H., Yoon, Y.-J., **Park, J.**, Kwon, S.-S., and Park, C. (2023), [Frechet Distance-Based Cluster Analysis for Multi-Dimensional Functional Data](https://doi.org/10.1007/s11222-023-10237-z), *Statistics and Computing*, 33(4), 75.
