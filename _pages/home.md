@@ -56,10 +56,13 @@ I am interested in developing interpretable methods for analyzing non-Euclidean 
 
 I earned my Ph.D. in Mathematical Sciences under the guidance of Professors [Cheolwoo Park](https://sites.google.com/view/parkcw/home?authuser) and [Jeongyoun Ahn](https://statds.kaist.ac.kr/professor) at KAIST. Before working on statistics, I was a research assistant in algebraic geometry under the supervision of Professor Sijong Kwak until the summer of 2021.
 
-I enjoy coffee :coffee:, :wine_glass:, running, and singing :).
+I enjoy coffee :coffee: and singing :).
+
+<!-- , :wine_glass:, running, -->
+
+<span style="color:#8B0000">**I will be on the 2026-27 academic job market**</span>
 
 Here is my [CV](/assets/CV.pdf) (last updated: July 2026)
-
 
 **Awards**
 - IMS New Researchers Travel Award (2026)
