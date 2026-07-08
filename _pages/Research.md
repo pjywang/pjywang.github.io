@@ -25,11 +25,12 @@ author_profile: true
 - **Park, J.** and Gaynanova, I. (2026+) [Fr\'echet regression of multivariate distributions with nonparanormal transport](https://arxiv.org/abs/2603.07014). arXiv:2603.07014. 
     - **IMS New Researchers Travel Award**
 - <u>Shao, E.</u>, **Park, J.**, Punjabi, N., Jiang, H, and Gaynanova, I. (2026+) [Fast distance computation between multivariate distributions via nonparanormal Transport](https://arxiv.org/abs/2603.00322). arXiv:2603.00322. (E. Shao received IMS Hannan Graduate Student Travel Award 2026)
-- **Park, J.**, Park, C., Ahn, J. (2026+) [A geometry-preserving framework for sufficient dimension reduction of compositional data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563. [Python codes.](https://github.com/pjywang/CKDR)
+- **Park, J.**, Park, C., Ahn, J. (2026+) [Geometry-preserving and interpretable dimension reduction of compositional data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563. [Python codes.](https://github.com/pjywang/CKDR)
 
 
 
-### Peer-reviewed articles:
+### Peer-reviewed publications:
+- Xu, C., Schmidt, B.M., Krambrink, A., **Park, J.**, Song, P.X.-K., Jones, T.L.Z., Holmes, C., Chen, K., Ye, W., Kolenic, G., Roy, S., Sen, C., Pop-Busui, R., Spino, C., and Gaynanova, I. (2026+) ``Profiling Longitudinal Wound Healing: Analysis of Healing Rates and the Predictive Power of Wound Area and Duration in the Diabetic Foot Consortium.'' *Wound repair and regeneration*, Accepted.
 - **Park, J.**, Kok, N., and Gaynanova, I. (2026) 
 [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://doi.org/10.1002/sim.70646). *Statistics in Medicine*, Vol. 45, No. 15-17, e70646. [R package [OptiThresholdR](https://github.com/IrinaStatsLab/OptiThresholds/blob/main/optithresholdr/README.md)]
 - Yeon, K., Gao, F., Kim, R., Lee, D., **Park, J.**, Brown, D.A., and Park, C. (2026) [A Bayesian Approach to Semi-Supervised Domain Adaptation in Streaming Data](https://doi.org/10.1080/00949655.2026.2619050). *Journal of Statistical Computation and Simulation*, 96(9), 2237–2262.
@@ -39,6 +40,3 @@ author_profile: true
 
 ### In Preparation
 - Multiple Imputation of Missing Predictors and Inference in Frechet Regression of Distributional Responses (**Park, J.**, <u>Szeto, N.</u>, and Gaynanova, I.)
-
-<!-- #### In Progress 
-- Frechet regression of multivariate distributions under the semiparametric nonparanormal model (with Irina Gaynanova) -->
