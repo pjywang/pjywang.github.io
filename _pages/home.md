@@ -39,11 +39,11 @@ author_profile: true
 #     btn_class: "btn--primary"
 #     btn_label: "Learn more"      
 ---
-<h2>About me</h2>
+<h2>Welcome!</h2>
 
-Hi! I am a postdoctoral research fellow in the Biostatistics Department of the University of Michigan, working with Dr. [Irina Gaynanova](https://irinagain.github.io/).
+I am a postdoctoral research fellow in the Biostatistics Department of the University of Michigan, working with Dr. [Irina Gaynanova](https://irinagain.github.io/).
 
-I develop *interpretable* methods for analyzing non-Euclidean data encountered in practice. My research keywords include:
+I am interested in developing *interpretable* methods for analyzing non-Euclidean data encountered in practice. My research keywords and application targets (in parentheses) include:
 - Distributional data analysis, optimal transport (wearable device data)
 - Compositional data analysis, dimension reduction (microbiome data)
 - Statistical machine learning, kernel methods
