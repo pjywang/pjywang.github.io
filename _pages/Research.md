@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /research/
-title: "Research"
+title: "Publications"
 # excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
 # layouts_gallery:
 #   - url: /assets/images/mm-layout-splash.png
@@ -24,7 +24,7 @@ author_profile: true
 ### Preprints/Submitted:
 - **Park, J.** and Gaynanova, I. (2026+) [Fr\'echet regression of multivariate distributions with nonparanormal transport](https://arxiv.org/abs/2603.07014). arXiv:2603.07014. 
     - **IMS New Researchers Travel Award**
-- <u>Shao, E.</u>, **Park, J.**, Punjabi, N., Jiang, H, and Gaynanova, I. (2026+) [Fast distance computation between multivariate distributions via nonparanormal Transport](https://arxiv.org/abs/2603.00322). arXiv:2603.00322. (E. Shao received IMS Hannan Graduate Student Travel Award 2026)
+- <u>Shao, E.</u>, **Park, J.**, Punjabi, N., Jiang, H, and Gaynanova, I. (2026+) [Fast distance computation between multivariate distributions via nonparanormal Transport](https://arxiv.org/abs/2603.00322). Under R&R at *Journal of Computational and Graphical Statistics* (<u>Shao, E.</u> received IMS Hannan Graduate Student Travel Award 2026)
 - **Park, J.**, Park, C., Ahn, J. (2026+) [Geometry-preserving and interpretable dimension reduction of compositional data](https://arxiv.org/abs/2509.05563). arXiv:2509.05563. [Python codes.](https://github.com/pjywang/CKDR)
 
 
