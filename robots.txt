@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://x2info.github.io/sitemap.xml
+Sitemap: https://pjywang.github.io/sitemap.xml
