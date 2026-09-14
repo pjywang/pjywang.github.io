@@ -43,7 +43,7 @@ author_profile: true
 
 I am a postdoctoral research fellow in the Biostatistics Department of the University of Michigan, working with Dr. [Irina Gaynanova](https://irinagain.github.io/).
 
-I am interested in developing interpretable methods for analyzing non-Euclidean data arising in modern biomedical applications. My research keywords and application targets (in parentheses) include:
+I develop efficient and interpretable methods for analyzing *non-Euclidean data* arising in modern biomedical applications. My research keywords and primary application targets (in parentheses) include:
 - Distributional data analysis, optimal transport (wearable device data)
 - Compositional data analysis, sufficient dimension reduction (microbiome data)
 - Statistical machine learning, kernel methods
