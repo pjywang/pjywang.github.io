@@ -5,7 +5,7 @@ title: "Meet Latte"
 author_profile: true
 ---
 
-## Meet Latte
+## Meet Latte :)
 
 My dog Latte, and a few moments from our walks together.
 
