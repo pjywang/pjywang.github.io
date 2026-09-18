@@ -17,7 +17,7 @@ author_profile: true
 
 
 ### Peer-reviewed publications:
-- <u>Xu, C.</u>, Schmidt, B.M., Krambrink, A., **Park, J.**, Song, P.X.-K., Jones, T.L.Z., Holmes, C., Chen, K., Ye, W., Kolenic, G., Roy, S., Sen, C., Pop-Busui, R., Spino, C., and Gaynanova, I. (2026+) ``Profiling Longitudinal Wound Healing: Analysis of Healing Rates and the Predictive Power of Wound Area and Duration in the Diabetic Foot Consortium.'' *Wound repair and regeneration*, Accepted.
+- <u>Xu, C.</u>, Schmidt, B.M., Krambrink, A., **Park, J.**, Song, P.X.-K., Jones, T.L.Z., Holmes, C., Chen, K., Ye, W., Kolenic, G., Roy, S., Sen, C., Pop-Busui, R., Spino, C., and Gaynanova, I. (2026) [Profiling Longitudinal Wound Healing: Analysis of Healing Rates and the Predictive Power of Wound Area and Duration in the Diabetic Foot Consortium](https://doi.org/10.1111/wrr.70189). *Wound repair and regeneration*, Vol. 34, No. 4, e70189.
 - **Park, J.**, <u>Kok, N.</u>, and Gaynanova, I. (2026) 
 [Beyond fixed thresholds: optimizing summaries of wearable device data via piecewise linearization of quantile functions](https://doi.org/10.1002/sim.70646). *Statistics in Medicine*, Vol. 45, No. 15-17, e70646. [R package [OptiThresholdR](https://github.com/IrinaStatsLab/OptiThresholds/blob/main/optithresholdr/README.md)]
 - Yeon, K., Gao, F., Kim, R., Lee, D., **Park, J.**, Brown, D.A., and Park, C. (2026) [A Bayesian Approach to Semi-Supervised Domain Adaptation in Streaming Data](https://doi.org/10.1080/00949655.2026.2619050). *Journal of Statistical Computation and Simulation*, 96(9), 2237–2262.
